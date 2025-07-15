@@ -1,6 +1,17 @@
-# Kubernetes Namespace Scenario-Based Interview Questions
+# Kubernetes Scenario-Based Pod Interview Questions
 
-A collection of scenario-based interview about Kubernetes namespaces.
+A collection of scenario-based interview questions focused on Kubernetes Pods.
+---
+
+# Table of Contents  
+1. [Multi-Tenancy Scenario](#1-multi-tenancy-scenario)  
+2. [Namespace Resource Management](#2-namespace-resource-management)  
+3. [Namespace Isolation Challenge](#3-namespace-isolation-challenge)  
+4. [Namespace Lifecycle Management](#4-namespace-lifecycle-management)  
+5. [Namespace Migration Scenario](#5-namespace-migration-scenario)  
+6. [Namespace Security Incident](#6-namespace-security-incident)  
+7. [Namespace Design Best Practices](#7-namespace-design-best-practices)  
+8. [Tips for Answering Scenario Questions](#8-tips-for-answering-scenario-questions)  
 
 ---
 
@@ -95,4 +106,6 @@ When designing a namespace strategy for a new project, what factors would you co
 - Naming conventions and labeling strategy.  
 - Lifecycle management approach.  
 - Monitoring and cost allocation requirements.  
+
+
 
