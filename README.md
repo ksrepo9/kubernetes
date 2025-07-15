@@ -1,1 +1,1 @@
-# kubernetes
+Here’s a structured scenario-based Kubernetes interview guide focusing on real-world problems and solutions for key objects (Pods, Deployments, Services, etc.), formatted as a technical document.
