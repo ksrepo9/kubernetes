@@ -1,6 +1,6 @@
-# Kubernetes Scenario-Based Pod Interview Questions
+# Kubernetes Scenario-Based NameSpace Interview Questions
 
-A collection of scenario-based interview questions focused on Kubernetes Pods.
+A collection of scenario-based interview questions focused on Kubernetes NameSpace.
 ---
 
 # Table of Contents  
