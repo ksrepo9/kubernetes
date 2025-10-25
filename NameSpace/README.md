@@ -106,5 +106,6 @@ When designing a namespace strategy for a new project, what factors would you co
 - Lifecycle management approach.  
 - Monitoring and cost allocation requirements.  
 
-
+## License
+This project is licensed under the MIT License.
 

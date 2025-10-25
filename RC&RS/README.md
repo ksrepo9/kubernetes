@@ -88,3 +88,5 @@ When designing a ReplicaSet for a production application, what best practices wo
 - Implement Horizontal Pod Autoscaler (HPA) for dynamic scaling.  
 - Monitor pod health and ReplicaSet status with tools like Prometheus.  
 
+## License
+This project is licensed under the MIT License.

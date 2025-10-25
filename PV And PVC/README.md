@@ -690,3 +690,5 @@ kubectl create volumesnapshot --schedule="0 2 * * *" --source-pvc=production-db
 # Install metrics server for storage metrics
 kubectl top pods --containers
 ```
+## License
+This project is licensed under the MIT License.
